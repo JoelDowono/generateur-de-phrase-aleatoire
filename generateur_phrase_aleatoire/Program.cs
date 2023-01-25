@@ -40,22 +40,35 @@ namespace MyApp // Note: actual namespace depends on the project name.
             };
 
             var complements = new string[] {
-                "un arbre",
+                /*"un arbre",
                 "un livre",
-                "la lune",
+                "la lune",*/
                 "le soleil",
-                "un serpent",
+               /* "un serpent",
                 "une carte",
-                "une girafe",
+                "une girafe",*/
                 "le ciel",
-                "une piscine",
+                /*"une piscine",
                 "un gateau",
                 "une souris",
-                "un crapaud"
+                "un crapaud"*/
             };
+            
+            int NB_PHRASE = 10;
 
-            string sujet = ObtenirElementAleatoire(sujets);
-            Console.WriteLine(sujet);
+            for(int i = 0; i < NB_PHRASE; i++)
+            {
+                string sujet = ObtenirElementAleatoire(sujets);
+                string verbe = ObtenirElementAleatoire(verbes);
+                string complement = ObtenirElementAleatoire(complements);
+
+                var phrase = sujet + " " + verbe + " " + complement;
+
+                phrase = phrase.Replace("à le", "au");
+
+                Console.WriteLine(phrase);
+            }
+
         }
     }
 }
