@@ -40,34 +40,52 @@ namespace MyApp // Note: actual namespace depends on the project name.
             };
 
             var complements = new string[] {
-                /*"un arbre",
+                "un arbre",
                 "un livre",
-                "la lune",*/
+                "la lune",
                 "le soleil",
-               /* "un serpent",
+                "un serpent",
                 "une carte",
-                "une girafe",*/
+                "une girafe",
                 "le ciel",
-                /*"une piscine",
+                "une piscine",
                 "un gateau",
                 "une souris",
-                "un crapaud"*/
+                "un crapaud"
             };
             
-            int NB_PHRASE = 10;
+            int NB_PHRASE = 100;
+            var phraseUnique = new List<string>();
+            int doublonsEvites = 0;
 
-            for(int i = 0; i < NB_PHRASE; i++)
+            while(phraseUnique.Count < NB_PHRASE)
             {
                 string sujet = ObtenirElementAleatoire(sujets);
                 string verbe = ObtenirElementAleatoire(verbes);
                 string complement = ObtenirElementAleatoire(complements);
 
                 var phrase = sujet + " " + verbe + " " + complement;
-
                 phrase = phrase.Replace("à le", "au");
+                
+                if (!phraseUnique.Contains(phrase))
+                {
+                    phraseUnique.Add(phrase);
+                }
+                else
+                {
+                    doublonsEvites++;
+                }
+            }
+            
 
+            foreach(var phrase in phraseUnique)
+            {
                 Console.WriteLine(phrase);
             }
+
+            Console.WriteLine();
+            Console.WriteLine("Nombre de phrase unique : " + phraseUnique.Count);
+            Console.WriteLine("Nombre de doublons évités : " + doublonsEvites);
 
         }
     }
