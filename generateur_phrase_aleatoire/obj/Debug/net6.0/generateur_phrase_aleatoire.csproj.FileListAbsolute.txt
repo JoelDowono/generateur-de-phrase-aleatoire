@@ -1,0 +1,15 @@
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\bin\Debug\net6.0\generateur_phrase_aleatoire.exe
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\bin\Debug\net6.0\generateur_phrase_aleatoire.deps.json
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\bin\Debug\net6.0\generateur_phrase_aleatoire.runtimeconfig.json
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\bin\Debug\net6.0\generateur_phrase_aleatoire.dll
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\bin\Debug\net6.0\generateur_phrase_aleatoire.pdb
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.csproj.AssemblyReference.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.AssemblyInfoInputs.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.AssemblyInfo.cs
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.csproj.CoreCompileInputs.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.dll
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\refint\generateur_phrase_aleatoire.dll
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.pdb
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\generateur_phrase_aleatoire.genruntimeconfig.cache
+C:\Users\joeld\OneDrive\Bureau\Udemy\Développeur C#  Formation complète 2023\Mes codes\generateur_phrase_aleatoire\generateur_phrase_aleatoire\obj\Debug\net6.0\ref\generateur_phrase_aleatoire.dll
